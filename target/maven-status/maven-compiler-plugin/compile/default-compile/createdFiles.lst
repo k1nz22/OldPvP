@@ -1,0 +1,5 @@
+com\k1nz\oldpvp\Listeners\SnowballDamageListener.class
+com\k1nz\oldpvp\OldPvP.class
+com\k1nz\oldpvp\Listeners\EggDamageListener.class
+com\k1nz\oldpvp\Listeners\FishingRodDamageListener.class
+com\k1nz\oldpvp\Listeners\OldAttackSpeedListener.class

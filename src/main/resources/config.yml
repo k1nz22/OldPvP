@@ -1,0 +1,13 @@
+#Damage ustawiaj razem z liczbą po przecinku.
+
+damage:
+  snowball: 1.0
+  egg: 1.0
+  fishing_rod: 1.0
+
+#Wartość true (ma być aktywny) lub false (nie ma być aktywny)
+
+enabled:
+  snowball: true
+  egg: true
+  fishing_rod: true

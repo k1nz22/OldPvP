@@ -1,0 +1,5 @@
+name: OldPvP
+version: '1.0'
+main: com.k1nz.oldpvp.OldPvP
+api-version: '1.20'
+
